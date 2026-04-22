@@ -23,9 +23,17 @@ Uncovers whether market sentiment meaningfully affects:
 ├── historical_data.csv    # Trader dataset
 ├── charts/
 │   ├── chart1_performance_by_sentiment.png
+<img width="1723" height="689" alt="Screenshot 2026-04-22 230902" src="https://github.com/user-attachments/assets/5b55208e-0be3-4c31-b866-ba0fc8e91484" />
+
 │   ├── chart2_behavior_by_sentiment.png
+<img width="1754" height="504" alt="Screenshot 2026-04-22 230956" src="https://github.com/user-attachments/assets/7d845bfd-91fb-42ac-9671-6b4ed47dbd71" />
+
 │   ├── chart3_heatmaps.png
+<img width="1754" height="504" alt="Screenshot 2026-04-22 230956" src="https://github.com/user-attachments/assets/466b9762-e750-4a5f-bf8d-f08a9443eb1e" />
+
 │   └── chart4_feature_importance.png
+<img width="1098" height="479" alt="Screenshot 2026-04-22 231007" src="https://github.com/user-attachments/assets/26a009d8-b529-4f94-b1cb-89c348e2c491" />
+
 ├── requirements.txt
 └── README.md
 
